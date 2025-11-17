@@ -1,0 +1,16 @@
+RA : 114.69753154658558
+Dec: -59.51690705800342
+GAIA DR3 Source_id: 5292816120167834880
+Designation: J0738-5931
+WISEView: http://byw.tools/wiseview#ra=114.69753154658558&dec=-59.51690705800342&size=100&speed=50&band=3&minbright=-50&maxbright=100&window=1.5&zoom=10&gaia=1&outer_epochs=0
+Simbad name: Gaia DR3 5292816120167834880
+MIR variability with W1-W2 ~0.8. I don't know what this is.
+
+
+ASAS-SN: Not available
+ZTF: Not available
+PTF: Not available
+CRTS: Included
+ATLAS: Included 
+
+
