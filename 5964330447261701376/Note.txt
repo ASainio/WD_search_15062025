@@ -1,0 +1,14 @@
+RA, Dec: 253.404668, -44.473082 
+GAIA DR3: 5964330447261701376
+
+ASAS-SN: Not available
+ZTF: Not available
+PTF: Not available
+CRTS: Not availble 
+ATLAS: Included, but not usefull
+PanSTARRS: Not available
+In the plane: crowded. 
+VVV: Available, Not included - difficult to obtain. VVV or VVVx might have useful Ks timeline data with better resolution than WISE. 
+
+
+
