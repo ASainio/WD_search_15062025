@@ -1,0 +1,15 @@
+RA : 346.0152283905002
+Dec: -67.83286551798365
+GAIA DR3 Source_id: 6390835302643294464
+Designation: J2304-6749
+WISEView: http://byw.tools/wiseview#ra=346.0152283905002&dec=-67.83286551798365&size=100&speed=50&band=3&minbright=-50&maxbright=100&window=1.5&zoom=10&gaia=1&outer_epochs=0
+Simbad name: nan
+Variable in WISE. Gaia Pstar 100%. I don't know what this is. 
+
+
+ASAS-SN: Not Available
+ZTF: Not Available
+PTF: Not Available
+CRTS: Included
+ATLAS: Included
+
