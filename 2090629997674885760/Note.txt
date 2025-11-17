@@ -5,7 +5,7 @@ Designation: J1848+3304
 WISEView: http://byw.tools/wiseview#ra=282.18088587278964&dec=33.0809391462486&size=100&speed=50&band=3&minbright=-50&maxbright=100&window=1.5&zoom=10&gaia=1&outer_epochs=0
 Simbad name: Gaia DR3 2090629997674885760
 Type: WD*
-Bright in first WISE epoch(s) Pure H in  Vincent et al. I got PanSTARS, but I did not see anything obvious in optical, perhaps variable in y?. 
+Bright in first WISE epoch(s) Pure H in  Vincent et al. I found only PanSTARRs going about as far in time, but I did not see anything obvious in optical, perhaps variable in y?. 
 I wonder if there is some NIR/red optical photometry during first WISE epochs I missed.
 
 ASAS-SN: Not Available
@@ -17,4 +17,5 @@ SuperWASP: Not Available
 KELT: Not Available
 HATNet: Not Available
 2MASS: Not Available
+
 
