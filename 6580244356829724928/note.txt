@@ -1,0 +1,10 @@
+Gaia DR3 6580244356829724928 
+Ra, DEC: 318.1704395975, -42.5000109713
+
+ASAS-SN: Not Available
+ZTF: Not Available
+PTF: Not Available 
+CRTS: Included
+Atlas: Included
+
+Note: Outburst in CRTS around 55100 MJD -> CV,  SU UMa?
