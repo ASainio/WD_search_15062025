@@ -1,0 +1,13 @@
+RA,Dec 64.1632132973, 40.0425637230
+GAIA DR3 227766037015779200
+
+http://byw.tools/wiseview-v3#ra=64.1632132973&dec=40.042563723&size=74&band=3&speed=125&minbright=-15.0000&maxbright=120.0000&window=1&diff_window=1&linear=1&color=&zoom=33.2972972972973&border=0&gaia=1&invert=1&maxdyr=0&scandir=0&neowise=0&diff=0&outer_epochs=0&unique_window=1&smooth_scan=0&shift=0&pmra=0&pmdec=0&synth_a=0&synth_a_sub=0&synth_a_ra=&synth_a_dec=&synth_a_w1=&synth_a_w2=&synth_a_pmra=0&synth_a_pmdec=0&synth_a_mjd=&synth_b=0&synth_b_sub=0&synth_b_ra=&synth_b_dec=&synth_b_w1=&synth_b_w2=&synth_b_pmra=0&synth_b_pmdec=0&synth_b_mjd=
+
+This has Gaia Epoch photometry that is not included. Looks like disk / dust based on ZTF/ASASSN.
+
+
+ASAS-SN: Included. Variable
+ZTF: Included. Variable
+PTF: Not available
+CRTS: Not available
+Atlas: Available.
