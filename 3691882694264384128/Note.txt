@@ -1,0 +1,16 @@
+RA : 195.7071080974028
+Dec: 1.821670185564346
+GAIA DR3 Source_id: 3691882694264384128
+Designation: J1302+0149
+WISEView: http://byw.tools/wiseview#ra=195.70710809740277&dec=1.821670185564346&size=100&speed=50&band=3&minbright=-50&maxbright=100&window=1.5&zoom=10&gaia=1&outer_epochs=0
+Simbad name: 2QZ J130249.7+014919
+Type: WD*
+Periodic in ZTF ~0.065046 (d): eclipsing binary, likely a CV. Companion should be a low mass based on CMD. Variable in WISE, but no outbursts in any dataset. CRTS and ATLAS are available but I could not get them to fold for "correct" period. 
+
+ASAS-SN: Not Available
+ZTF: Included, periodic
+PTF: 31 datapoints
+CRTS: Included 
+ATLAS: Included
+
+
