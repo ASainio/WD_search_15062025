@@ -1,0 +1,17 @@
+RA : 2.8700622445276425
+Dec: 35.97299922026645
+GAIA DR3 Source_id: 2877244599280935040
+Designation: J0011+3558
+WISEView: http://byw.tools/wiseview#ra=2.8700622445276425&dec=35.97299922026645&size=100&speed=50&band=3&minbright=-50&maxbright=100&window=1.5&zoom=10&gaia=1&outer_epochs=0
+Simbad name: nan
+Type: nan
+
+Note: Periodic in both WISE and CSS with same period. Has W1-W2 ~0.6. Doesn't fully land on WD region in Gaia CMD, but it could have a WD component? 
+WISE gives sinusoidal lightcurve and CSS gives more clean eclipse for same period. 
+It has W1-W2 ~0.6 -> the MIR excess does not evolve during phases.
+
+ASAS-SN: Not Available
+ZTF: Not Available
+PTF: Included
+CRTS: Inluded, Folded
+ATLAS: Included (likely useless)
