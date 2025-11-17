@@ -1,0 +1,15 @@
+RA : 322.90581768812217
+Dec: -36.39568445660867
+GAIA DR3 Source_id: 6589283094028544384
+Designation: J2131-3623
+WISEView: http://byw.tools/wiseview#ra=322.90581768812217&dec=-36.39568445660867&size=100&speed=50&band=3&minbright=-50&maxbright=100&window=1.5&zoom=10&gaia=1&outer_epochs=0
+Simbad name: 2MASS J21313738-3623437
+Type: WD*
+This was originally from Tom. This has wonky folded WISE-light curve. CRTS(CSS) is also periodic with same period and has long term variability. ATLAS has long term variability.
+
+
+ASAS-SN: Not available
+ZTF: Not available
+PTF: Not available
+CRTS: Included
+ATLAS: Included
